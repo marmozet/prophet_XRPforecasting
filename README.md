@@ -4,5 +4,5 @@
 
 ## Link del Proyecto: https://colab.research.google.com/drive/1XuoT73lXukFI8OUOl7rbgS_kUz0GIIfb?usp=sharing
 
-## Pagina donde se recolectaron los dataset para el proyecto.
+## Pagina donde se recolectaron los dataset para el proyecto: https://www.cryptodatadownload.com/data/binance/
 ## Tomar un pulsado Hourly en la criptomoneda que guste.
